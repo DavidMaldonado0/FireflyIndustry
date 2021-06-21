@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 2rem;
+  padding: 0.1rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.lead {
+  color: #000;
+  font-size: 1.1em;
+}
+
+.navbar {
+  box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.4);
+  position: fixed;
+}
+
+.cardproduct {
+  border: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.mtopone {
+  margin-top: 70px !important;
+}
+
+.mtoptwo {
+  margin-top: 70px !important;
+}
+
+.leadtag {
+  text-align: left;
+  color: #0f6811;
+  font-weight: 900 !important;
+  font-size: 3.3em;
+}
+
+.btn {
+  font-weight: 400;
+}
+
+.nameproduct {
+  text-align: center;
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+}
+
+.nameproduct:hover {
+  color: #000;
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+}
+
+.footer__icon {
+  font-size: 2rem;
+  color: #fff;
+  margin: 4rem 2rem;
+}
+
+.footersocial {
+  margin-bottom: 2em;
+}
+
+.buttoncontact {
+  margin-top: 30px;
+  display: inline-block;
+  background-color: #10bf12;
+  color: #fff;
+  padding: 0.75rem 2.5rem;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  box-shadow: 0 20px 46px rgba(0, 0, 0, 0.25);
+}
+
+.buttoncontact:hover {
+  background-color: #fff;
+  color: #10bf12;
+  box-shadow: 0 20px 46px rgba(0, 0, 0, 0.25);
+  text-decoration: none;
+}
+
+.home__man {
+  color: #000;
+}
+
+.home__title-color {
+  color: #10bf12;
+}
+
+.footer__icon:hover {
+  color: #0f6811;
+}
+
+.footer .lead {
+  color: #10bf12;
+}
